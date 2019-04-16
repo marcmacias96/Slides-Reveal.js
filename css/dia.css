@@ -1,0 +1,24 @@
+#avatar {
+    border-radius: 50%;
+    height: 150pt;
+    right: 150pt ;
+  }
+#logo {
+    border-radius: 50%;
+    height: 50pt;
+    right: 50pt;
+}
+#box {
+  background: #3a6186;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #89253e, #3a6186);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #89253e, #3a6186); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+  border-radius: 80px 80px 80px 80px;
+  -moz-border-radius: 80px 80px 80px 80px;
+  -webkit-border-radius: 80px 80px 80px 80px;
+  border: 0px solid #000000;
+}  
+
+
+
+
